@@ -1,0 +1,28 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+*.gem
+.bundle
+.sass-cache
+_site
+Gemfile.lock
+
+Thumbs.db
+.DS_Store
+
+.rbenv-version
+.rvmrc
+/node_modules
+/yarn-error.log
+yarn.lock
+
+# Ignore Yard Doc
+/doc
+.yardoc/
